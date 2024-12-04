@@ -68,7 +68,7 @@ Este PDF es una referencia integral para aprender sobre RAG y su implementación
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/pildora-rag.git
+   git clone https://github.com/mcuencac/pildora-rag.git
    cd pildora-rag
 
 2. Instala las dependencias:
