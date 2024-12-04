@@ -11,7 +11,7 @@ Este proyecto incluye:
 [Mira aquí la presentación](https://mariarosacuenca.my.canva.site/rag)
 
 ## 🎯 Objetivo del Proyecto
-Este proyecto tiene como finalidad proporcionar una base sólida para que desarrolladores e investigadores puedan comprender e implementar sistemas RAG de manera modular y eficiente. Es ideal para quienes buscan potenciar aplicaciones de IA generativa con datos externos relevantes y actualizados.
+Este proyecto tiene como finalidad proporcionar una base sólida para comprender e implementar sistemas RAG de manera modular y eficiente. Es ideal para quienes buscan potenciar aplicaciones de IA generativa con datos externos relevantes y actualizados.
 
 
 ## 📖 **Contenido**
