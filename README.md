@@ -6,7 +6,9 @@ Este proyecto incluye:
 - Un **notebook de Python** con el código implementado para entender y ejecutar un pipeline RAG.
 - Un **documento PDF** explicativo que detalla los conceptos clave, ventajas y pasos técnicos de la implementación de RAG.
 
-- Se puede ver en formato presentacion de canva aquí: [https://mariarosacuenca.my.canva.site/rag]
+
+  
+[Mira aquí la presentación](https://mariarosacuenca.my.canva.site/rag)
 
 ## 🎯 Objetivo del Proyecto
 Este proyecto tiene como finalidad proporcionar una base sólida para que desarrolladores e investigadores puedan comprender e implementar sistemas RAG de manera modular y eficiente. Es ideal para quienes buscan potenciar aplicaciones de IA generativa con datos externos relevantes y actualizados.
