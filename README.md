@@ -14,7 +14,7 @@ Este proyecto incluye:
 Este proyecto tiene como finalidad proporcionar una base sólida para que desarrolladores e investigadores puedan comprender e implementar sistemas RAG de manera modular y eficiente. Es ideal para quienes buscan potenciar aplicaciones de IA generativa con datos externos relevantes y actualizados.
 
 
-## 📖 Contenido **
+## 📖 ** Contenido **
 
 El documento PDF proporciona una guía teórica y práctica para entender e implementar RAG. Las secciones incluidas son:
 
