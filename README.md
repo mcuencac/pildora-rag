@@ -10,23 +10,48 @@ Este proyecto incluye:
 Este proyecto tiene como finalidad proporcionar una base sólida para que desarrolladores e investigadores puedan comprender e implementar sistemas RAG de manera modular y eficiente. Es ideal para quienes buscan potenciar aplicaciones de IA generativa con datos externos relevantes y actualizados.
 
 
-## 📖 Contenidos
+## 📖 Contenido del PDF: **RAG.pdf**
 
-### 1. **Píldora Teórica (PDF)**
-El archivo `RAG.pdf` explica:
-- Qué es RAG y por qué es útil.
-- Cómo RAG supera las limitaciones de los LLM tradicionales.
-- Los pasos clave para implementar un pipeline RAG, incluyendo:
-  - Ingesta y preprocesamiento de datos.
-  - Vectorización e indexación.
-  - Generación de respuestas contextualizadas.
+El documento PDF proporciona una guía teórica y práctica para entender e implementar RAG. Las secciones incluidas son:
 
-### 2. **Código del Pipeline (Notebook)**
-El archivo `Pipeline_RAG_Explanation.ipynb` incluye:
-- Preparación de datos mediante loaders y splitters de LangChain.
-- Generación de embeddings utilizando modelos como `text-embedding-ada-002`.
-- Almacenamiento en bases vectoriales como FAISS.
-- Generación de respuestas enriquecidas con contexto mediante LLM.
+1. **Introducción**
+   - ¿Por qué RAG?
+   - ¿Qué es RAG?
+
+2. **Fases del RAG**
+   - **Recuperación**: Localización de información relevante en bases de datos o documentos.
+   - **Aumento**: Enriquecimiento del contexto de las consultas con información recuperada.
+   - **Generación**: Creación de respuestas precisas y contextualizadas utilizando LLM.
+
+3. **Implementación de un Sistema RAG**
+   - **Preparación e Ingesta de Datos**:
+     - Document Loaders
+     - División en Fragmentos (Chunks)
+   - **Vectorización e Indexación**:
+     - Generación de Embeddings.
+     - Bases de Datos Vectoriales.
+
+4. **Generación de Respuestas**
+   - Uso de LLM para integrar el contexto y generar respuestas.
+   - Plantillas de prompts para guiar al modelo.
+   - Citación de fuentes para transparencia.
+
+5. **Evaluación y Optimización**
+   - **Métricas para evaluar LLMs**:
+     - Métricas basadas en LLMs.
+     - Métricas tradicionales de NLP:
+   - **Evaluación en RAG**:
+     - Recuperación: Context Recall (recuperación del contexto relevante).
+     - Generación: Fidelidad, relevancia, corrección y similitud semántica.
+
+6. **Ejemplo Práctico**
+   - Aquí se hace referencia al archivo Pipeline_RAG_Explanation.ipynb.
+
+7. **Referencias**
+   - Fuentes bibliográficas y recursos adicionales para profundizar:
+
+
+Este PDF es una referencia integral para aprender sobre RAG y su implementación. ¡Explóralo para obtener todos los detalles!
 
 
 ## 🚀 Instrucciones de Uso
