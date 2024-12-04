@@ -1,6 +1,6 @@
 # 📚 Píldora RAG (Retrieval Augmented Generation)
 
-Bienvenido/a al repositorio del proyecto **Retrieval Augmented Generation (RAG)**, una introducción práctica y teórica a esta técnica innovadora que amplía las capacidades de los Modelos de Lenguaje de Gran Escala (LLM) con datos externos.
+Bienvenido/a al repositorio del proyecto **Píldora RAG (Retrieval Augmented Generation)**, una introducción práctica y teórica a esta técnica innovadora que amplía las capacidades de los Modelos de Lenguaje de Gran Escala (LLM) con datos externos.
 
 Este proyecto incluye:
 - Un **notebook de Python** con el código implementado para entender y ejecutar un pipeline RAG.
